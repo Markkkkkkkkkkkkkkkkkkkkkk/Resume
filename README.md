@@ -111,20 +111,6 @@
 
 ## 📦 資料來源
 - Basketball-Reference：NBA 2023–2024 Totals  
-  （本專案使用公開資料進行學術/個人分析用途）
-
----
-
-## 🚀 如何執行（Run Locally）
-
-### 1) 安裝 R 套件
-在 RStudio 執行：
-
-```r
-install.packages(c(
-  "rvest","dplyr","tidyr","ggplot2","wordcloud2",
-  "plotly","flexdashboard","knitr","htmlwidgets","jsonlite","httr"
-))
 
 ---
 
