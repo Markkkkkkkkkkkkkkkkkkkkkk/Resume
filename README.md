@@ -67,50 +67,20 @@
 🔗 **Live Website:** https://plantai-cac82.web.app  
 🔗 **Project Repo:** https://github.com/你的帳號/smart-gardening-assistant
 
-# 🏀 籃球公道伯｜NBA 2023–2024 例行賽數據分析（R / Flexdashboard）
+### 🏀 籃球公道伯｜NBA 2023–2024 例行賽數據分析（R / Flexdashboard）
 
 「籃球公道伯」是一個以 **2023–2024 NBA 例行賽球員數據**為基礎的資料分析專案。  
-因為平常很喜歡打籃球，我想把「看球的直覺」變成「用資料說話」，所以使用 **R 語言**抓取 Basketball-Reference 的公開資料，並以 **Flexdashboard** 做成可視化報告，透過各種圖表呈現球員表現與現代籃球趨勢（Three-Point Era）。
-
----
-
-## 🎯 專案目標
-
-- 以資料視覺化呈現 2023–2024 NBA 球員基本表現與分布
-- 進一步探討進階指標（得分效率、控衛價值等）
-- 分析「大三分時代」下，三分球對不同位置、效率指標的影響
-
----
+因為平常很喜歡打籃球，我想把「看球的直覺」變成「用資料說話」，所以使用 **R 語言**抓取 Basketball-Reference 的公開資料，並以 **Flexdashboard** 做成可視化報告，透過各種圖表呈現球員表現與現代籃球趨勢。
 
 ## 📊 分析內容與圖表
 
-### 1) 基礎分析（Basic Visualization）
-- **得分王 Top 10（PTS）**：長條圖列出總得分前十名球員
-- **得分文字雲（Top 100 Scorers）**：文字雲呈現前 100 名得分手，字體越大代表得分越高
-- **年齡分布（Age Distribution）**：直方圖呈現球員年齡結構
-- **位置分布（Position Distribution）**：圓餅圖顯示 PG/SG/SF/PF/C 人數比例
+### 1) 基礎分析：Top 10 得分王、Top 100 得分文字雲、年齡分布、位置分布
 
-### 2) 進階分析（Advanced Metrics）
-- **得分效率（MP vs PTS）**：散佈圖分析「上場時間（MP）」與「總得分（PTS）」的關係，用來觀察高效率得分手與刷分型球員
-- **控衛價值（AST vs TOV）**：針對控球後衛（PG）用散佈圖分析助攻與失誤，尋找高助攻低失誤的優質控衛
-- **180 俱樂部（50/40/90）**：篩選符合 FT% > 90%、FG% > 50%、3P% > 40% 的高效射手
-- **買犯王（FTA per Game Top 10）**：長條圖列出場均罰球數最高的前十名球員，觀察造犯能力與進攻風格
+### 2) 進階分析：MP vs PTS 得分效率、PG AST vs TOV 控衛價值、180 俱樂部、買犯王（場均 FTA Top 10）
 
-### 3) 大三分時代（Three-Point Era）
-- **出手佔比（3PA / FGA by Position）**：長條圖顯示各位置「三分出手佔總出手比例」，觀察長人是否也開始投三分
-- **位置表現（3P% vs 3PA by Position）**：散佈圖比較各位置的三分命中率與出手次數
-- **FG% vs eFG%（效率差異）**：比較傳統命中率與有效命中率，凸顯三分球對進攻效率的加成
-- **三分球分佈（Interactive Scatter）**：互動式散佈圖呈現「三分進球數」與「命中率」的關係
-- **空間型中鋒（3PA > 100）得分結構**：堆疊長條圖拆解中鋒得分來源（3PT / 2PT / FT 佔比），分析現代中鋒的技能變化
-
----
+### 3) 大三分時代：各位置 3PA/FGA、位置三分表現、FG% vs eFG%、三分互動散佈圖、空間型中鋒得分結構
 
 **Technologies:** R, Flexdashboard, rvest, ggplot2, wordcloud2, plotly
-
----
-
-## 📦 資料來源
-- Basketball-Reference：NBA 2023–2024 Totals  
 
 ---
 
