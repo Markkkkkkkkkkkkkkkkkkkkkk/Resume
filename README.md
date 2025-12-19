@@ -64,6 +64,8 @@
 
 > 本專題讓我實際體驗從硬體、資料、後端到 AI 分析的完整流程。
 
+🔗 **Live Website:** https://plantai-cac82.web.app  
+🔗 **Project Repo:** https://github.com/你的帳號/smart-gardening-assistant
 ---
 
 ## 🤝 Team Experience
