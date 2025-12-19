@@ -79,6 +79,9 @@
  3) 大三分時代：各位置 3PA/FGA、位置三分表現、FG% vs eFG%、三分互動散佈圖、空間型中鋒得分結構
 
 **Technologies:** R, Flexdashboard, rvest, ggplot2, wordcloud2, plotly  
+
+🔗 **Live Dashboard:** https://markkkkkkkkkkkkkkkkkkkkkk.github.io/Resume/DAV%E7%B1%83%E7%90%83%E5%85%AC%E9%81%93%E4%BC%AF.html#%E5%A4%A7%E4%B8%89%E5%88%86%E6%99%82%E4%BB%A3
+
 ---
 
 ## 🤝 Team Experience
