@@ -1,9 +1,13 @@
 # 張梓閎｜Backend / Software / AI Intern
 
 ● Birthday: 2003/11/22
+
 ● Education:國立高雄大學 資訊管理學系(2022/09 – 2026/06)
+
 ● Location: New Taipei City
+
 ● E-mail: mark20031122@gmail.com
+
 ● Mobile: 0975-901-492
 
 ---
