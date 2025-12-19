@@ -19,7 +19,8 @@
 
 ---
 
-**Python**
+### Programming Languages
+- **Python**
 - **Java**
 - **C**
 - **PHP**
