@@ -73,13 +73,13 @@
 - 透過AI模型分析不同植物需求，提供照護建議
 - 建置植物資料庫
 
-> 我負責的工作是**植物資料庫和網頁建置**：
+我負責的工作是**植物資料庫和網頁建置**：
 - 建置台灣常見 100 種植物資料庫：整理植物基礎資訊與照護需求，統一資料格式 
 - 規劃資料欄位如植物名稱、日照需求、澆水頻率等，提升查詢與後續AI分析的可用性  
 - 製作植物資料展示頁面，將資料以網頁形式呈現，提供使用者快速瀏覽、比對與尋找植物相關資訊  
 - 與系統整合，讓資料可被前端和後端功能使用，作為後續訓練AI的基礎資料來源 
 
-🔗 **Live Website:** https://plantai-cac82.web.app  
+**Live Website:** https://plantai-cac82.web.app  
 
 ### 籃球公道伯｜NBA 2023–2024 例行賽數據分析（R / Flexdashboard）
 
@@ -96,7 +96,7 @@
 
 **Technologies:** R, Flexdashboard, rvest, ggplot2, wordcloud2, plotly  
 
-🔗 **Live Dashboard:** https://markkkkkkkkkkkkkkkkkkkkkk.github.io/Resume/DAV%E7%B1%83%E7%90%83%E5%85%AC%E9%81%93%E4%BC%AF.html#%E5%A4%A7%E4%B8%89%E5%88%86%E6%99%82%E4%BB%A3
+**Live Dashboard:** https://markkkkkkkkkkkkkkkkkkkkkk.github.io/Resume/DAV%E7%B1%83%E7%90%83%E5%85%AC%E9%81%93%E4%BC%AF.html#%E5%A4%A7%E4%B8%89%E5%88%86%E6%99%82%E4%BB%A3
 
 ---
 
