@@ -56,7 +56,12 @@
 ### 🌱 Smart Gardening Assistant（畢業專題）
 
 <img src="front_page.png" width="900">
-<img src="AI.png" width="450"><img src="my_garden.png" width="450">
+<table>
+  <tr>
+    <td><img src="AI.png" width="450"></td>
+    <td><img src="my_garden.png" width="450"></td>
+  </tr>
+</table>
 
 **Technologies:** Python, IoT Sensors, API, Cloud Database, AI
 
