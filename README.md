@@ -19,6 +19,8 @@
 
 ---
 
+## Skills
+
 ### Programming Languages
 - **Python**
 - **Java**
