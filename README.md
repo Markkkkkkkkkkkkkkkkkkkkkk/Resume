@@ -78,8 +78,7 @@
  2) 進階分析：MP vs PTS 得分效率、PG AST vs TOV 控衛價值、180 俱樂部、買犯王（場均 FTA Top 10）
  3) 大三分時代：各位置 3PA/FGA、位置三分表現、FG% vs eFG%、三分互動散佈圖、空間型中鋒得分結構
 
-**Technologies:** R, Flexdashboard, rvest, ggplot2, wordcloud2, plotly
-
+**Technologies:** R, Flexdashboard, rvest, ggplot2, wordcloud2, plotly  
 ---
 
 ## 🤝 Team Experience
