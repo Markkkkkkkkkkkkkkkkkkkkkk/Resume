@@ -54,6 +54,10 @@
 ## 🚀 Projects
 
 ### 🌱 Smart Gardening Assistant（畢業專題）
+
+<img src="front_page.png" width="900">
+<img src="AI.png" width="450"><img src="AI.png" width="450">
+
 **Technologies:** Python, IoT Sensors, API, Cloud Database, AI
 
 - 整合土壤濕度與環境溫溼度感測器，即時監測植物狀態
